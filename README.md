@@ -1,3 +1,3 @@
 # sql-challenge
 
-SQL file is attached. My data was not importing correctly, I will resubmit soon.
+Please look at Module9.2 file, that is the updated one. I will still resubmit one more time.
